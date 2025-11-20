@@ -1,0 +1,2 @@
+# mi_sharq_makerevuytneri_mijocov_avtochanaprhneri_taracakan_modelavorman_masin
+Մի շարք մակերևույթների միջոցով ավտոճանապարհների տարածական մոդելավորման մասին
