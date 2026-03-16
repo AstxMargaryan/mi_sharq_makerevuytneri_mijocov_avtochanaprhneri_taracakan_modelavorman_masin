@@ -700,15 +700,15 @@ $$
 Այստեղ $\vec e_0(u)$ և $\vec g_0(u)$ վեկտորները որոշվում են ուղղորդ կորի Ֆրենեի եռանիստի միջոցով և հաշվարկվում են հետևյալ բանաձևերով`
 
 $$
-\vec e_0(u)=
-\frac{\left(\vec r\,'(u)\times \vec r\,''(u)\right)\times \vec r\,'(u)}
-{\left|\vec r\,'(u)\times \vec r\,''(u)\right|\cdot \left|\vec r\,'(u)\right|},
+\vec e_0(u) =
+\frac{(\vec r''(u)\times \vec r'(u))\times \vec r'(u)}
+{|\vec r'(u)\times \vec r''(u)|\,|\vec r'(u)|},
 $$
 
 $$
-\vec g_0(u)=
-\frac{\vec r\,'(u)\times \vec r\,''(u)}
-{\left|\vec r\,'(u)\times \vec r\,''(u)\right|}:
+\vec g_0(u) =
+\frac{\vec r'(u)\times \vec r''(u)}
+{|\vec r'(u)\times \vec r''(u)|}:
 $$
 
 
